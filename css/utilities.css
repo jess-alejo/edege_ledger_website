@@ -6,3 +6,46 @@
 .text-secondary {
   color: #0284d0;
 }
+
+/* Buttons */
+.btn {
+  background-color: #28a745;
+  cursor: pointer;
+  padding: 10px 30px;
+  color: #fff;
+  display: inline-block;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+i.fas {
+  margin-right: 5px;
+}
+
+.btn-primary,
+.bg-primary {
+  color: #fff;
+  background-color: #28a745;
+}
+
+.btn-secondary,
+.bg-secondary {
+  color: #fff;
+  background-color: #0284d0;
+}
+
+.btn-dark,
+.bg-dark {
+  color: #fff;
+  background-color: #ccc;
+}
+
+.btn-light,
+.bg-light {
+  color: #333;
+  background-color: #f4f4f4;
+}
