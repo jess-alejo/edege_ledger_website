@@ -22,8 +22,14 @@
   opacity: 0.9;
 }
 
-i.fas {
-  margin-right: 5px;
+i.fas.icon-left {
+  margin-left: 0px;
+  margin-right: 10px;
+}
+
+i.fas.icon-right {
+  margin-left: 10px;
+  margin-right: 0px;
 }
 
 .btn-primary,
